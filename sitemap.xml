@@ -1,0 +1,55 @@
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://Super AI/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://Super AI/posts.html</loc>
+    <lastmod>2025-01-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Super AI/about.html</loc>
+    <lastmod>2025-01-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Super AI/contacts.html</loc>
+    <lastmod>2025-01-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Super AI/privacy_policy.html</loc>
+    <lastmod>2025-01-10</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://Super AI/posts_1.html</loc>
+    <lastmod>2025-01-13</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://Super AI/posts_2.html</loc>
+    <lastmod>2025-01-12</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://Super AI/posts_3.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://Super AI/posts_4.html</loc>
+    <lastmod>2025-01-09</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://Super AI/posts_5.html</loc>
+    <lastmod>2025-01-08</lastmod>
+    <priority>0.6</priority>
+  </url>
+</urlset>
+```
